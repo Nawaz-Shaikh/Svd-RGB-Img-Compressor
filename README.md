@@ -1,4 +1,5 @@
-🖼️ SVD Image Compressor (Custom Implementation)
+******* SVD Image Compressor (Custom Implementation) ********
+
 This project demonstrates an image compression technique using Singular Value Decomposition (SVD) — implemented entirely from scratch without using high-level SVD functions. The compression is applied separately on each RGB channel to preserve color details effectively.
 
 ------ Features
